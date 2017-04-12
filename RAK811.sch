@@ -35,10 +35,10 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title ""
+Title "RAK811 Breakout"
 Date ""
-Rev ""
-Comp ""
+Rev "V01"
+Comp "Benjamin Marty"
 Comment1 ""
 Comment2 ""
 Comment3 ""

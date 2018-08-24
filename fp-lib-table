@@ -5,4 +5,5 @@
   (lib (name special_headers)(type KiCad)(uri "$(KIPRJMOD)/footprint/special_headers.pretty")(options "")(descr ""))
   (lib (name ipx)(type KiCad)(uri "$(KIPRJMOD)/footprint/ipx.pretty")(options "")(descr ""))
   (lib (name KMR241NG)(type KiCad)(uri "$(KIPRJMOD)/footprint/KMR241NG.pretty")(options "")(descr ""))
+  (lib (name tactile_button)(type KiCad)(uri "$(KIPRJMOD)/footprint/tactile_button.pretty")(options "")(descr ""))
 )

@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name rak811)(type Legacy)(uri ${KIPRJMOD}/schematic/rak811.lib)(options "")(descr ""))
+  (lib (name button)(type Legacy)(uri ${KIPRJMOD}/schematic/button.lib)(options "")(descr ""))
+)
